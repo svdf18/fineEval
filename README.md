@@ -49,3 +49,9 @@ Visualization tool that:
 - Provides summary statistics
 - Helps identify patterns in model behavior
 
+
+### quality_metrics.py
+- Calculates quality metrics
+- Generates summary statistics
+- Provides insights into model performance
+- Helps identify areas for improvement
