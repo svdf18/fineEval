@@ -1,0 +1,54 @@
+{
+  "base": {
+    "num_sentences": {
+      "mean": 19.21,
+      "std": 9.92
+    },
+    "num_words": {
+      "mean": 412.0,
+      "std": 173.87
+    },
+    "readability_score": {
+      "mean": 0.02,
+      "std": 0.14
+    },
+    "code_blocks": {
+      "mean": 1.43,
+      "sum": 20.0
+    },
+    "structure_score": {
+      "mean": 24.01,
+      "std": 15.03
+    },
+    "specificity_score": {
+      "mean": 0.27,
+      "std": 0.04
+    }
+  },
+  "finetuned": {
+    "num_sentences": {
+      "mean": 16.86,
+      "std": 10.57
+    },
+    "num_words": {
+      "mean": 349.64,
+      "std": 167.96
+    },
+    "readability_score": {
+      "mean": 0.03,
+      "std": 0.19
+    },
+    "code_blocks": {
+      "mean": 1.43,
+      "sum": 20.0
+    },
+    "structure_score": {
+      "mean": 15.3,
+      "std": 9.78
+    },
+    "specificity_score": {
+      "mean": 0.25,
+      "std": 0.04
+    }
+  }
+}

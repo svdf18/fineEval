@@ -1,0 +1,6 @@
+{
+  "metric": "num_sentences",
+  "base_mean": 19.214285714285715,
+  "finetuned_mean": 16.857142857142858,
+  "difference_percent": -12.267657992565058
+}

@@ -1,0 +1,6 @@
+{
+  "metric": "specificity_score",
+  "base_mean": 0.27208389633695435,
+  "finetuned_mean": 0.24607172026511828,
+  "difference_percent": -9.560351208592678
+}

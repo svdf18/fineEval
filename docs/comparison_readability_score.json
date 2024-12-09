@@ -1,0 +1,6 @@
+{
+  "metric": "readability_score",
+  "base_mean": 0.02308862660393272,
+  "finetuned_mean": 0.028930676859621314,
+  "difference_percent": 25.302718762377612
+}

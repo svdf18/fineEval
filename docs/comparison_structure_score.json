@@ -1,0 +1,6 @@
+{
+  "metric": "structure_score",
+  "base_mean": 24.014285714285712,
+  "finetuned_mean": 15.3,
+  "difference_percent": -36.287923854848295
+}
